@@ -44,6 +44,6 @@ document.write(" a * b  = " );
 
 ![alt text](https://github.com/Zahran15/Task/blob/main/Screenshot%20(38).png)
 
-- Contoh Output pada tampilan browser
+- Contoh Output pada tampilan browser menggunakan alert
 
 ![alt text](https://github.com/Zahran15/Task/blob/main/Screenshot%20(37).png)
